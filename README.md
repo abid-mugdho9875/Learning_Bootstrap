@@ -8,7 +8,9 @@ Bootstrap provide dozens of utility classes
   like- 
    - .bg-primary for blue
    - .bg-dark for dark
-- If You want set custom background Just add background-image: var(--bs-gradient);. 
+- If You want set custom background Just add background-image: var(--bs-gradient);.
+To know about how to add background image.You can follow
+[Details](https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element) 
 2.Borders
 3.colors
 4.Flex
