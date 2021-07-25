@@ -18,6 +18,8 @@ two give border write only
  - border-primary/secondary/sucees/light/dark(to give border color)
  - border-0 border-top-0 border-end-0 border-bottom-0 (sybtractive version)
 3.colors
+To give text color as like as css color.
+ - text-primary/success/danger/dark/warning.......    
 4.Flex
 5.Sizing
 6.Text
