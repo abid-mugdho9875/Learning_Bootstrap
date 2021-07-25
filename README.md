@@ -12,6 +12,11 @@ Bootstrap provide dozens of utility classes
 To know about how to add background image.You can follow
 [Details](https://stackoverflow.com/questions/2504071/how-do-i-combine-a-background-image-and-css3-gradient-on-the-same-element) 
 2.Borders
+Used to quickly design the style of the border .
+two give border write only 
+ - border border-1/2....(to give border width) 
+ - border-primary/secondary/sucees/light/dark(to give border color)
+ - border-0 border-top-0 border-end-0 border-bottom-0 (sybtractive version)
 3.colors
 4.Flex
 5.Sizing
