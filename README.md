@@ -21,7 +21,13 @@ two give border write only
 To give text color as like as css color.
  - text-primary/success/danger/dark/warning.......    
 4.Flex
+one of the important topic of bootstrap.Mainly use to make the website layout become responsive easily.I will try discuss few important things regarding this topic.
+  1. Flex Behaviour: Flex mainly align the element.You can use d-flex for converting into flex container
+
 5.Sizing
+ Two types of sizing in bootstrap.
+  - depend on parent like-w-25/50/75/100/1uto
+  - depend on view-port like-vw-100/vh-100/min-vw-100/min-vh-100 as like
 6.Text
 7.Shadows
 8.Display
