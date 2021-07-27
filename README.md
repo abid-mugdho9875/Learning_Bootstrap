@@ -35,6 +35,45 @@ one of the important topic of bootstrap.Mainly use to make the website layout be
   - here value 1 consists in 0.25 to 3 rem default value
 6.Text
 7.Shadows
+ To give different shadow value use shadow for regular and shadow-none/sm/lg important shadow class.Mainly it deonotes box-shadow class.
+
+ various types of Text  class use for various operation
+ - text-alignment
+    - for alignment text-center/start/end use
+    - And also viewport can be set 
+      - text-md-center for medium viewport machine text in center 
+      - text-sm-center for small viewport machine text in center
+      - text-lg-center for large viewport machine text in center
+      - text-xxl-center for extra large viewport machine text in center
+- Text-wrap
+   - use text-wrap class to wrap the text
+- Word Break
+   - instead of overflow-wrap for wider browser support we use 
+      text-break  class
+- Text Transform
+   - to transform class in upper/lower/capitialize use
+     text-uppercase/lowercase/capitialize
+- Font Size 
+   - to set various font size use fs-1/2/3/4/5/6 class
+- Font Weight 
+   - to set various font weight use
+     fw-/bold/bolder/normal/light/loghter
+- Font Style
+   - use fst to set italic/normal font style
+     fst-italic/normal
+- Line Height
+   - Line height can be set lh-1/small/base/lg
+    small line height
+    normal line height 
+    large line height
+- Reset Color
+  - to inherit parent color use text-reset class
+- Text Decoration
+  - To give underline /line through the line/without any decoration
+    - text-decoration-underline for giving underline
+    - text-decoration-line-through fot giving line through the line
+    - text-decoration-none without any decoration
+    
 8.Display
 9.float
 10.Interacctions
