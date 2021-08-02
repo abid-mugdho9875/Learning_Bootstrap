@@ -91,6 +91,7 @@ one of the important topic of bootstrap.Mainly use to make the website layout be
  .row  ------>main row
  .col-6 |.col-6 ------->main row divided into two column
  -------|----------------------
- .row   | .row.col-6 |.row.col-6 ------------> then .col-6 divided into another  &                              row will divide into nested column
+ .row   | .row.col-6 & .row.col-6 
 
+ .col-6 divided into row and then row will be divided into another nested column.
 
