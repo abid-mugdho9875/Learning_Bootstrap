@@ -84,6 +84,7 @@ one of the important topic of bootstrap.Mainly use to make the website layout be
  practicing website using bootstrap.
 
  # How to create multiple columna and rows
+
  You can create multiple column simultaneously.
  Create one column then create row inside the column.Also create multiple column inside the nested row.
  .row
@@ -91,4 +92,4 @@ one of the important topic of bootstrap.Mainly use to make the website layout be
  .col-6 |.col-6
  -------|----------------------
  .row  | .row.col-5 |.row.col-6
--------|------------|----------
+
